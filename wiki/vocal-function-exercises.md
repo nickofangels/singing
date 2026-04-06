@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 Stemple's structured four-exercise protocol — one of the most broadly acting voice therapy and training protocols.
@@ -37,6 +38,10 @@ VFEs improve all four primary vocal performance measures simultaneously:
 4. Phonation volume
 
 The mechanism involves musculoskeletal conditioning of the intrinsic laryngeal muscles, improved respiratory-phonatory coordination, and enhanced tissue pliability (Angadi et al., 2019, Journal of Voice).
+
+### Dosage
+
+Bane et al. (2017, Journal of Voice) found twice-daily practice over 6 weeks produced significant results in healthy voices; high-dosage groups did not significantly outperform the traditional twice-daily dosage group.
 
 ## Open Questions
 

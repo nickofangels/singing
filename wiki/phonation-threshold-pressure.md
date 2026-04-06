@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 The minimum subglottal pressure required to initiate and sustain vocal fold oscillation — the single best quantitative measure of vocal efficiency.
@@ -45,6 +46,10 @@ Where:
 Trained singers maintain stable PTP after extended loud vocalization; untrained voices show significant PTP elevation under identical vocal load. This difference reflects trained singers' superior respiratory-laryngeal coordination, tissue conditioning, and resonance use.
 
 PTP is used clinically to track voice therapy outcomes and to quantify vocal efficiency changes over time.
+
+### Warm-Up Effects on PTP
+
+Vocal warm-up itself affects PTP. Elliot, Sundberg, and Gramming (1993) showed that warm-up exercises reduce PTP in voice-disordered patients. Motel et al. (2003) found that warm-up increased PTP at high pitch in sopranos — interpreted as stabilization of vocal fold viscosity rather than tissue loosening. Both findings reflect the importance of managing the threshold through tissue preparation.
 
 ## Open Questions
 

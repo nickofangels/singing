@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 Phonation through a partial lip obstruction — one of the highest-transfer training interventions in voice science.
@@ -29,6 +30,18 @@ SOVTEs simultaneously:
 3. Train the sensorimotor system to phonate at lower effort
 4. Facilitate access to mixed registration
 5. Provide proprioceptive biofeedback through face vibration
+
+### Impedance Matching and Aerodynamic Power Transfer
+
+Titze (2006, JSLHR) demonstrated that SOVT conditions match glottal impedance to vocal tract input impedance, reducing collision force, increasing oscillation amplitude, and improving vocal economy. Titze (2021, JASA) quantified this further: maximum aerodynamic power transfer to the vocal tract requires reduced glottal resistance combined with increased epilaryngeal resistance — the exact condition SOVT exercises create. A 2024 comparative study (Frontiers in Communication) confirmed that flow resistance tube exercises passively expand the airway: 38% increase in pharyngeal area and 73% increase in epilaryngeal space.
+
+### SOVT Variants
+
+In approximate order of occlusion intensity:
+- Voiced bilabial trill (lip trill / "motorboat")
+- Straw phonation (narrower straw = more impedance; 2.5–3 mm for measurement, 3–4 mm for training)
+- Sustained /v/ or /z/
+- LaxVox silicone tube in water
 
 ### Evidence
 

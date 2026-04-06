@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 Seven principles with agreement across speech pathology, vocal pedagogy, laryngology, and acoustic phonetics.
@@ -42,6 +43,20 @@ The passaggio/break is a dynamical bifurcation, not an immutable anatomical barr
 
 Variability, external focus, reduced feedback frequency, and deliberate practice structure are principles derived from neuroscience with growing evidence in voice (Maas et al., 2008, AJSLP; Verdolini-Abbott LMRVT studies).
 
+### 8. Coordination Over Isolation
+
+Vocal power is the coordinated output of multiple subsystems (respiratory, laryngeal, resonatory, source-filter), not the maximization of any single one. An undertrained voice typically relies on subglottic pressure alone; a trained voice exploits all levels simultaneously (NCVS, Titze, Sundberg — independently described).
+
+### Cross-Tradition Validation
+
+| Principle | Italian Bel Canto | German Stütze | SLP | Titze / NCVS | Sundberg |
+|-----------|-------------------|---------------|-----|-------------|----------|
+| Respiratory antagonism | Core (appoggio) | Core (Atemstütze) | EMG-validated | Transdiaphragmatic pressure confirmed | Confirmed |
+| Adduction balance | "Spin the tone" | Implied | Explicit (VFE) | Formal model | Confirmed |
+| Resonance amplification | "Ring," "placement" | "Voce di testa" | Emerging (SOVT) | Singer's formant / twang model | Singer's formant |
+| Source–filter interaction | Implied | Implied | SOVT mechanism | Formal model | Confirmed |
+| Coordination over isolation | Integrated system | Integrated | Confirmed | Vocology postulates | Confirmed |
+
 ## Open Questions
 
 <!-- TBD -->
@@ -50,6 +65,7 @@ Variability, external focus, reduced feedback frequency, and deliberate practice
 
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — the quantitative measure underlying principle 1
 - [Respiratory Subsystem](respiratory-subsystem.md) — principle 2
+- [Appoggio](appoggio.md) — the cross-tradition respiratory antagonism (principles 2, 8)
 - [Hydration and Vocal Fold Tissue](hydration-and-vocal-fold-tissue.md) — principles 3 and 5
 - [Vocal Tract Resonance](vocal-tract-resonance.md) — principle 4
 - [Mucosal Wave](mucosal-wave.md) — principle 5

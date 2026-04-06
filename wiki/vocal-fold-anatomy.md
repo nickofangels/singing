@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 The layered structure of the vocal folds and the muscular mechanisms controlling pitch and adduction.
@@ -33,11 +34,21 @@ The degree of medial compression — how firmly the folds press together — det
 | Balanced / flow phonation | Optimal | Lowest PTP with complete glottal closure |
 | Hypofunctional / breathy | Insufficient | Incomplete closure, air waste, weak voice |
 
-The balanced zone — lowest tissue impact with complete closure — corresponds to what pedagogy traditions call "resonant voice" or "flow phonation" (pedagogy consensus).
+The balanced zone — lowest tissue impact with complete closure — corresponds to what pedagogy traditions call "resonant voice" or "flow phonation" (pedagogy consensus). NCVS frames the target as "somewhere between breathy and pressed, with current research indicating slightly on the breathy side of the center."
+
+### Glottal Adduction as an Independent Power Lever
+
+Adduction independently controls vocal intensity by modulating glottal flow resistance — estimable as the quotient of subglottic pressure divided by mean airflow, analogous to Ohm's law (NCVS). Sulter and Wit found that glottal flow resistance increases with vocal loudness in both males and females, attributing this to increased adductory forces (LCA muscle activity). Södersten et al. confirmed via videostrobolaryngoscopy that posterior glottal adduction varies as a function of vocal intensity in healthy women.
+
+Excessive adduction paradoxically reduces acoustic output: Titze (2021, JASA) formalized the pressed-voice efficiency penalty — maximum aerodynamic power transfers to the vocal tract when glottal airflow resistance is reduced while epilaryngeal airway resistance is increased. Hyper-adduction reverses this balance, raising glottal resistance and reducing the inertive back-coupling that supports efficient oscillation.
+
+### Contact Quotient
+
+Closed/contact quotient (CQ) — the fraction of each vibratory cycle in which the folds are in contact — is measurable via electroglottography (EGG). Howard and Rossiter found a patterned variation of CQ with fundamental frequency that correlates with years of singing training/experience in both males and females, providing an objective training progression marker (pilot longitudinal EGG study).
 
 ## Open Questions
 
-<!-- TBD -->
+- Whether CQ thresholds can reliably define training milestones across voice types remains to be validated in larger longitudinal studies.
 
 ## Related
 
@@ -45,3 +56,4 @@ The balanced zone — lowest tissue impact with complete closure — corresponds
 - [Vocal Registers](vocal-registers.md) — register identity maps to which tissue layer dominates vibration
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — adduction balance directly affects PTP
 - [Myoelastic-Aerodynamic Theory](myoelastic-aerodynamic-theory.md) — the theory of oscillation enabled by fold structure
+- [Appoggio](appoggio.md) — respiratory antagonism that enables balanced adduction without laryngeal compensation

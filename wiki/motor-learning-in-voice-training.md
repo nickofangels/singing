@@ -4,6 +4,7 @@ created: 2026-04-05
 updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
+  - raw/vocal-power-mechanisms-and-training-2026-04-05.md
 ---
 
 Voice training as motor skill acquisition — the neuroscience principles governing retention and transfer of vocal skills.
@@ -39,9 +40,25 @@ LSVT LOUD — the best-studied motor-learning-based voice intervention — demon
 
 Verdolini-Abbott's work on resonant voice training validated that sensory processing instructions (attending to tactile/proprioceptive sensation) combined with variable practice produced stronger learning outcomes than either approach alone. Tactile referents (face vibration in resonant voice, lip/face sensation in SOVTEs) function as proprioceptive biofeedback for correct vocal tract configuration.
 
+### Blocked vs. Variable Practice in Voice Training
+
+Blocked practice (same exercise, same parameters, consistent context) builds faster initial motor pattern acquisition. Variable practice (same exercise type with varying pitch, vowel, dynamic level, or interleaved exercise types) hurts early performance but improves long-term retention and transfer — critical for real-world vocal demands. Titze & Verdolini Abbott (2012) confirm: manipulations that harm immediate performance often enhance long-term learning.
+
+### Carrier-Modulation Hierarchy
+
+Titze proposed that training progressions move from sustained phonation → prosodic variation → voiced consonants → unvoiced consonants (Titze & Verdolini Abbott, 2012, Vocology).
+
+### Longer Vocalizations and Spaced Trials
+
+A 2026 AJSLP study on vocal motor adaptation found that longer vocalization time and longer inter-trial rest periods increased retention of motor adaptations (single study).
+
+### Outcome Focus vs. Biomechanical Focus
+
+Verdolini Abbott explicitly stated that "metaphoric images (associational processing)" and "conscious intellectual practice" do not produce durable motor learning — procedural practice of the target movement does (Titze & Verdolini Abbott, 2012). Attention directed to perceptual results (sound quality, evenness) rather than specific muscle actions produces superior retention.
+
 ## Open Questions
 
-- Optimal practice dosing (session length, frequency, total hours) for specific vocal skills remains incompletely characterized.
+- Optimal practice dosing (session length, frequency, total hours) for specific vocal skills remains incompletely characterized. Bane et al. (2017) found high dosage did not outperform traditional twice-daily for VFEs.
 - The transfer specificity of vocal motor learning — how far skills generalize from practice contexts to performance contexts — is an active research area.
 
 ## Related
@@ -49,3 +66,4 @@ Verdolini-Abbott's work on resonant voice training validated that sensory proces
 - [Resonant Voice Training](resonant-voice-training.md) — the approach most directly integrating motor learning principles
 - [Semi-Occluded Vocal Tract Exercises](semi-occluded-vocal-tract-exercises.md) — provide proprioceptive biofeedback
 - [Cross-School Consensus Principles](cross-school-consensus-principles.md) — "motor learning principles govern retention"
+- [Vocal Power Training Progression](vocal-power-training-progression.md) — a phased progression applying these motor learning principles
