@@ -10,6 +10,7 @@ Singing knowledge base — vocal technique, practice methods, repertoire, and pe
 - `wiki/_audit.md` — knowledge check output.
 - `wiki/_processed.md` — raw files already compiled.
 - `evidence.md` — dated observations. Not compiled, not interpreted.
+- `working-model.md` — personal conclusions with traceable logical chains. See Working Model below.
 - `outputs/` — deliverables. Only when asked. Create if missing.
 - Sibling domains at `~/Documents/GitHub/knowledge/*/`. Read, never write.
 
@@ -23,6 +24,15 @@ Singing knowledge base — vocal technique, practice methods, repertoire, and pe
 - No tags, no categorization, no structure beyond date and observation.
 - Wiki articles may reference evidence entries. Evidence never gets folded into wiki.
 
+## Working Model
+
+`working-model.md` — the only place where conclusions, priorities, and action implications are permitted.
+
+- Wiki describes what is known. Working model says what follows from it.
+- Every conclusion traces to wiki articles via a logical chain with source quality labels.
+- Conclusions the model would normally hedge or avoid are permitted if the chain supports them. Follow the logic.
+- Read `.claude/procedures/working-model.md` before adding or updating entries.
+
 ## Jobs
 
 YOU MUST read the procedure file before doing any job.
@@ -30,6 +40,7 @@ YOU MUST read the procedure file before doing any job.
 - **Compile**: read `.claude/procedures/compile.md` first.
 - **Deep research**: read `.claude/procedures/deep-research.md` first.
 - **Knowledge check**: read `.claude/procedures/knowledge-check.md` first.
+- **Working model**: read `.claude/procedures/working-model.md` first.
 - **Output**: write to `outputs/` in requested format.
 
 If `_index.md`, `_processed.md`, or `_audit.md` don't exist, create them empty first.
