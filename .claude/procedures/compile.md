@@ -13,7 +13,7 @@
    - Any hedge words doing the work of a source label? ("likely", "may", "appears to" — replace with the source quality note)
 7. Update `wiki/_index.md`. Append processed filenames to `wiki/_processed.md` (one filename per line, no bullets, no `raw/` prefix).
 8. Tell me what changed.
-9. Ask if I want to commit and push.
+9. Ask if I want to commit and push. Commit and push within this domain only — the parent repo's submodule pointer is updated by the daily auto-commit script.
 
 ## Article Template
 

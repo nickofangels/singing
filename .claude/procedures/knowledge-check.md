@@ -12,4 +12,4 @@
    - Misplaced content: articles or raw files that clearly belong in a different domain. List each with the suggested domain. Do not move — flag for user approval.
    - Cross-domain: concepts here that may relate to sibling domain articles (plain text, no links)
    - 5 specific questions worth researching next
-4. Ask if I want to commit and push.
+4. Ask if I want to commit and push. Commit and push within this domain only — the parent repo's submodule pointer is updated by the daily auto-commit script.
