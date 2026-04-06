@@ -15,9 +15,17 @@
 - [Vocal Registers](vocal-registers.md) — M0–M3 laryngeal vibratory mechanisms and register transitions
 - [Vocal Tract Resonance](vocal-tract-resonance.md) — the resonator: formant tuning, singer's formant, twang, resonance strategies by genre
 
-## Tissue Health
+## Vocal Health and Load Management
 
+- [Vocal Fatigue](vocal-fatigue.md) — peripheral (tissue, neuromuscular) and central fatigue mechanisms from sustained vocal use
+- [Vocal Dose Metrics](vocal-dose-metrics.md) — Titze's quantitative measures of cumulative vocal fold vibration exposure (time, cycle, distance, energy dose)
+- [Phonotrauma](phonotrauma.md) — mechanical injury mechanisms: nodules, polyps, hemorrhage, Reinke's edema
+- [Vocal Warm-Up and Cool-Down](vocal-warm-up-and-cool-down.md) — physiological effects and evidence base for pre- and post-use vocal preparation
+- [Vocal Rest and Recovery](vocal-rest-and-recovery.md) — complete rest, relative rest, and active recovery strategies with recovery timelines
 - [Hydration and Vocal Fold Tissue](hydration-and-vocal-fold-tissue.md) — systemic and surface hydration effects on tissue viscoelasticity and PTP
+- [Laryngopharyngeal Reflux](laryngopharyngeal-reflux.md) — gastric refluxate effects on laryngeal tissue; diagnostic challenges
+- [Medications and Voice](medications-and-voice.md) — pharmaceutical agents affecting vocal fold tissue, drying, hormonal, and vascular mechanisms
+- [Environmental Factors and Voice](environmental-factors-and-voice.md) — humidity, noise, sleep, smoking, alcohol, allergies, and their effects on voice
 
 ## High-Transfer Training Interventions
 
@@ -32,6 +40,13 @@
 
 - [Motor Learning in Voice Training](motor-learning-in-voice-training.md) — neuroscience principles governing retention and transfer of vocal skills
 - [Vocal Power Training Progression](vocal-power-training-progression.md) — three-phase progression from isolation to automaticity
+
+## Vocal Phenomena and Technique
+
+- [Vibrato](vibrato.md) — quasi-periodic f0 modulation arising from CT-TA oscillation; rate/extent norms, trainability, pathological variants
+- [Belt Technique](belt-technique.md) — M1 carried high with R1:2f0 formant tuning; acoustics, safety, and training
+- [Vowel Modification](vowel-modification.md) — systematic vowel adjustment to maintain formant-harmonic coupling across the pitch range
+- [Vocal Onsets](vocal-onsets.md) — simultaneous, aspirate, and glottal onset types; efficiency and injury-risk profiles
 
 ## Synthesis
 

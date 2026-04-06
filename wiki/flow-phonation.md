@@ -42,3 +42,4 @@ It specifically counters the pathological pattern (hyperfunction) that is the mo
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — reduced by optimal (not excessive) adduction
 - [Respiratory Subsystem](respiratory-subsystem.md) — flow phonation rebalances respiratory-phonatory interaction
 - [Cross-School Consensus Principles](cross-school-consensus-principles.md) — "efficiency over force"
+- [Vocal Onsets](vocal-onsets.md) — flow phonation training targets simultaneous onset with balanced adduction

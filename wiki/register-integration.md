@@ -45,3 +45,5 @@ Multiple schools address register integration through different exercises, but t
 - [Vocal Fold Anatomy](vocal-fold-anatomy.md) — CT/TA balance underlying register behavior
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — PTP is minimized in the intermediate "mixed" geometry
 - [Cross-School Consensus Principles](cross-school-consensus-principles.md) — "register bridging is structurally trainable"
+- [Vowel Modification](vowel-modification.md) — vowel modification interacts with passaggio navigation
+- [Belt Technique](belt-technique.md) — belt carries M1 through the passaggio rather than transitioning

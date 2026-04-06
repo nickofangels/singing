@@ -5,6 +5,7 @@ updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
   - raw/vocal-power-mechanisms-and-training-2026-04-05.md
+  - raw/vibrato-belt-vowelmod-onsets-2026-04-05.md
 ---
 
 The vocal tract as the resonator/filter subsystem, shaping timbre through formant tuning strategies that vary by voice type and genre.
@@ -48,7 +49,8 @@ Traser et al. (2023, JASA) used real-time MRI across 12 professional singers dur
 
 ## Open Questions
 
-<!-- TBD -->
+- Whether R2 (second resonance) tuning strategies are systematically trainable or emerge incidentally from R1-targeted modifications is an open research area.
+- Quantitative data on resonance tuning precision across different CCM substyles is limited relative to classical and musical theater data.
 
 ## Related
 
@@ -57,3 +59,5 @@ Traser et al. (2023, JASA) used real-time MRI across 12 professional singers dur
 - [Semi-Occluded Vocal Tract Exercises](semi-occluded-vocal-tract-exercises.md) — achieve elevated inertive reactance via occlusion
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — reduced by resonance configuration
 - [Messa di Voce](messa-di-voce.md) — the exercise requiring continuous resonance adjustment
+- [Vowel Modification](vowel-modification.md) — systematic vowel adjustment for resonance across the pitch range
+- [Belt Technique](belt-technique.md) — R1:2f0 tuning via megaphone configuration

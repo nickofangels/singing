@@ -62,3 +62,5 @@ Vocal warm-up itself affects PTP. Elliot, Sundberg, and Gramming (1993) showed t
 - [Hydration and Vocal Fold Tissue](hydration-and-vocal-fold-tissue.md) — dehydration elevates PTP
 - [Source-Filter Theory](source-filter-theory.md) — nonlinear source-tract interaction reduces PTP
 - [Semi-Occluded Vocal Tract Exercises](semi-occluded-vocal-tract-exercises.md) — reduce PTP via elevated inertive reactance
+- [Vocal Fatigue](vocal-fatigue.md) — PTP increase is the most consistent measurable correlate of fatigue
+- [Vocal Warm-Up and Cool-Down](vocal-warm-up-and-cool-down.md) — warm-up reduces PTP; PTP is the primary outcome measure

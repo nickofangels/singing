@@ -5,6 +5,7 @@ updated: 2026-04-05
 sources:
   - raw/fundamental-components-vocal-production-2026-04-05.md
   - raw/vocal-power-mechanisms-and-training-2026-04-05.md
+  - raw/vibrato-belt-vowelmod-onsets-2026-04-05.md
 ---
 
 The layered structure of the vocal folds and the muscular mechanisms controlling pitch and adduction.
@@ -57,3 +58,6 @@ Closed/contact quotient (CQ) — the fraction of each vibratory cycle in which t
 - [Phonation Threshold Pressure](phonation-threshold-pressure.md) — adduction balance directly affects PTP
 - [Myoelastic-Aerodynamic Theory](myoelastic-aerodynamic-theory.md) — the theory of oscillation enabled by fold structure
 - [Appoggio](appoggio.md) — respiratory antagonism that enables balanced adduction without laryngeal compensation
+- [Vibrato](vibrato.md) — CT-TA oscillatory interaction generates vibrato
+- [Belt Technique](belt-technique.md) — high TA:CT ratio distinguishes belt from classical production
+- [Vocal Onsets](vocal-onsets.md) — adduction timing determines onset type and collision forces
